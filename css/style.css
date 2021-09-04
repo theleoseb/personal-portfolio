@@ -90,6 +90,11 @@
     align-items: center;
  }
 
+ .profile-img {
+    width: 50%;
+    height: 70%;
+ }
+
  @media screen and (max-width:1056px) {
      .nav-list{
          display: none;
